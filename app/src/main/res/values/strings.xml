@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppDayNauAn</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorite</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_settings">Notifications</string>
+</resources>
